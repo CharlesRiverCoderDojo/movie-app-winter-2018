@@ -9,6 +9,7 @@ body {
   background: #fafafa;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #333;
+  text-align: center;
 }
 
 .hero-unit {
@@ -30,4 +31,8 @@ body {
 
 .hidden {
   display: none;
+}
+
+li {
+  list-style-type: none;
 }
