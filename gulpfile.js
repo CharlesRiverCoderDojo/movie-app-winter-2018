@@ -26,7 +26,7 @@ gulp.task('styles', () => {
 
 gulp.task('scripts', () => {
     const b = browserify({
-    entries: 'app/scripts/main.js',
+    entries: 'app/scripts/index.js',
     transform: babelify,
     debug: true
   });
