@@ -4,7 +4,7 @@ You should already have the latest stable version of Node and NPM installed.
 If not, please install them here: <https://nodejs.org/en/>
 
 You should also have a Github account and a link between that account and the
-git tool in your command line. Instructions are here: <https://git-scm.com/book/en/v2/Getting-Started-Installing-Git>
+git tool in your command line. Instructions are here:   <https://git-scm.com/book/en/v2/Getting-Started-Installing-Git>
 
 Install bower, gulp, gulp-cli, yeoman and the generator-webapp:
 _npm install -g bower gulp gulp-cli yo generator-webapp_
@@ -48,15 +48,14 @@ your local copy with the contents from these files from my GitHub repo:
 *  Create a file called “index.js” in your app/scripts folder
 
 To integrate your changes into the rest of your project:
-
 _gulp build_
-
 _gulp serve_
 
 Once that is finished, you should now commit your changes to Github
 In the top right corner, click on the (+) and then new repository
 Give your repository a name like, “my-movie-app”
 Click “create repository”
+
 In the command line, type the following in the main folder for your project:
 
 *  git init
