@@ -64,7 +64,7 @@ your local copy with the contents from these files from my GitHub repo:
 *  Create a file called “index.js” in your app/scripts folder
 
 
-## test
+## Test
 
 To integrate your changes into the rest of your project:
 
