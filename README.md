@@ -7,7 +7,6 @@ You should also have a Github account and a link between that account and the
 git tool in your command line. Instructions are here: <https://git-scm.com/book/en/v2/Getting-Started-Installing-Git>
 
 Install bower, gulp, gulp-cli, yeoman and the generator-webapp:
-
 _npm install -g bower gulp gulp-cli yo generator-webapp_
 If you want to know more, check out the Yeoman Generator-Webapp Getting Started
 docs: <https://github.com/yeoman/generator-webapp/blob/master/docs/README.md>
