@@ -2,12 +2,12 @@
 
 const app = require('../app.js');
 
-const movieSearch = (search, data) => {
+const movieSearch = (search) => {
   return new Promise((resolve, reject) => {
     $.ajax({
-      url: app.host + '/movies/?q=' + search,// + query
+      url: app.host + '/movies/?q=' + search,
       method: 'GET',
-      data: data,
+      data: search,
       success: (response) => {
         resolve(response);
       },
