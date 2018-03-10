@@ -100,3 +100,12 @@ Now you’ve created your project and made your first commit!
 
 The main repository for this project is found here – feel free to use it as a reference:
 <https://github.com/CharlesRiverCoderDojo/movie-app-winter-2018>
+
+## Homework for Session 4
+If you have any questions, you can email me: <andrea.santarl@gmail.com>
+
+*  Read: synchronous vs asynchronous code
+<https://www.pluralsight.com/guides/front-end-javascript/introduction-to-asynchronous-javascript>
+
+*  Read: JavaScript Modules (until How can you incorporate modules?)
+<https://medium.freecodecamp.org/javascript-modules-a-beginner-s-guide-783f7d7a5fcc>
